@@ -1,0 +1,28 @@
+Welcome to a gentle introduction to R and
+RStudio. This tutorial introduces you to the R programming
+language and its environment. The videos following will contain tutorials
+and hands-on practice. R is a statistical programming language. It is a powerful tool for data processing
+and manipulation, statistical inference, data analysis, and Machine Learning algorithms. Based on 2017 Stack overflow visits, they
+found that R is most used by academics, healthcare, and the government. R has many functions; which support importing
+data from different sources. For example, flat files, databases, the web,
+and statistical software like SPSS and STATA. R is a preferred language for some Data Scientists
+because it is easy to use the functions within R.
+It is also known for producing great visualizations and readily available packages to handle data
+analysis without the need to install any libraries. To use R, we need an environment to help run
+the codes. One of the most popular environments for developing
+and running R language source code and programs is Rstudio. Rstudio is an integrated development environment
+that helps improve and increase productivity with the R language. R studio includes:
+A syntax-highlighting editor that supports direct code execution and where you keep a
+record of your work; a console for typing R commands; a workspace and history tab that shows the list of R objects you created during your
+R session and shows the history of all previous commands;
+and a Plots, Files, Packages, and Help tab for showing files in your working directory; history of plots you have created and allow for exporting plots to PDF or images files; external R packages available on your local computer and help on R resources, RStudio support,
+packages, and more. If R is your tool choice for Data Science,
+here are some popular Libraries in the Data Science community. dplyr for manipulating data,
+stringer for manipulating strings, ggplot for visualizing data,
+and caret for Machine Learning To get you up and learning quickly, we have
+provided you with an R Studio virtual environment as part of the Skills Network Labs. This virtual lab environment is designed to
+assist you to easily practice what you learn in the course and skip the need to create
+an account or download or install anything. You should now be familiar with:
+The capabilities of R and its uses in Data Science
+The RStudio interface for running R codes and
+Popular R packages for Data Science
